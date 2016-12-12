@@ -1,7 +1,7 @@
 // date for countdown
 startdate = "January 31, 2014 15:00:00";
 // twitter username for @latest tweets
-twitter_username = "PwegoCinema";
+twitter_username = "firestorm942";
 tweets_count = 5;
 twitter_avatar_size = 32;
 // time between animation frames the more the number, the slower clouds go
