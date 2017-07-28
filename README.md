@@ -1,3 +1,2 @@
-# www.lostplay.net
+# firestorm942.github.io
 repo for my minecraft website
-mc.lostplay.net
